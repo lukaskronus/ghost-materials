@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'SBL Greek';
+    src: url('https://cdn.jsdelivr.net/gh/lukaskronus/ghost-materials@main/ghost-fonts/sbl_grk-webfont.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/lukaskronus/ghost-materials@main/ghost-fonts/sbl_hbrw-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
