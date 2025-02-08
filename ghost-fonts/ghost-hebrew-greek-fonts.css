@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'SBL Greek';
-    src: url('https://cdn.jsdelivr.net/gh/lukaskronus/ghost-materials@main/ghost-fonts/SBL_greek.ttf') format('truetype');
+    font-family: 'Times New Roman';
+    src: url('https://cdn.jsdelivr.net/gh/lukaskronus/ghost-materials@main/ghost-fonts/times.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
